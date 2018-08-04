@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CameraController" Collapsed="true">
+    <Position X="19.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAIAAAICAEAAAIAAAIACAAAQAAAAAABAAAEA=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\CameraController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Popup_UnitInfo" Collapsed="true">
+    <Position X="19.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABEAAAAAAAAAAAAAAAAAAAAAQoQAAEBEAACEA=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\GUI\Popup_UnitInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PopupManager" Collapsed="true">
+    <Position X="21.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAgAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\GUI\PopupManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SetCenterPosition" Collapsed="true">
+    <Position X="24.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAACAAAAAAAAAgAAAABAAEAAAEA=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\Helper\SetCenterPosition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResourcesLoader" Collapsed="true">
+    <Position X="23" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACEAiAAAIIAIAAAAAAAAAAAAAAAAAIgAAAAAACABEEg=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\ResourcesLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TileState" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACABAAAAgAAAAAAAAAEAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\States\TileState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TileStateAttackable" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\States\TileStateAttackable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TileStateGrid" Collapsed="true">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\States\TileStateGrid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TileStateMovable" Collapsed="true">
+    <Position X="12.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAgAAAAAAAAAEAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\States\TileStateMovable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TileStateNormal" Collapsed="true">
+    <Position X="14.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\States\TileStateNormal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TileStateObstacle" Collapsed="true">
+    <Position X="17" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\States\TileStateObstacle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TileStatePath" Collapsed="true">
+    <Position X="1.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\States\TileStatePath.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TileStateSelected" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\States\TileStateSelected.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TileStateUnitPlaced" Collapsed="true">
+    <Position X="10.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\States\TileStateUnitPlaced.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnitState" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAARAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\States\UnitState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnitStateAttack" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAQAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\States\UnitStateAttack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnitStateIdle" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAQAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\States\UnitStateIdle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnitStateMove" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAQAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\States\UnitStateMove.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnitStateParameter" Collapsed="true">
+    <Position X="21.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\States\UnitStateParameter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnitStateReadyToMove" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAQAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\States\UnitStateReadyToMove.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Map" Collapsed="true">
+    <Position X="23" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAABACAAAAQAAUA=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\Tilemap\Map.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SquareTile" Collapsed="true">
+    <Position X="26.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACABAAAAIAAAAQAQAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\Tilemap\SquareTile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TilemapBG" Collapsed="true">
+    <Position X="19.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\Tilemap\TilemapBG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TilemapGrid" Collapsed="true">
+    <Position X="21.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAgAAAQAAAAAAAAAAAAACAAAAAEA=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\Tilemap\TilemapGrid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TilemapHighlight" Collapsed="true">
+    <Position X="23" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACQAAgCAAAJAAAgAABACEAAAAAAIAAAACAAQAAEk=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\Tilemap\TilemapHighlight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TilemapObstacle" Collapsed="true">
+    <Position X="24.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAACAAAAAAAgAAAAAAAAACAAAAAgACAAAAAEA=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\Tilemap\TilemapObstacle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TilemapPathFind" Collapsed="true">
+    <Position X="26.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAUBAAgAAEgEAAAICAAAAAaACAAEAAEA=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\Tilemap\TilemapPathFind.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Unit" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAKABAAAAAAAAAAAgAAIAAAAIAAAEBAAACGA=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\Units\Unit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnitKnight" Collapsed="true">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EBAAAAAIAKAAAAQAAABAAAAAEAAAAgYoIAAAAgESCEA=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\Units\UnitKnight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnitManager" Collapsed="true">
+    <Position X="19.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAEAEAAAAAABAAAAAAAAAAAAAAAQABAAAMA=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\Units\UnitManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AStarPathFinding.Grid" Collapsed="true">
+    <Position X="21.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQCAAgAAAAAAAkIAQAAAAAACAAAAAgA=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\PathFinding\Grid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AStarPathFinding.Node" Collapsed="true">
+    <Position X="24.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAAAAABAAAAAAAAAAgAAIAAAAABAAQAAAAA=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\PathFinding\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AStarPathFinding.PathFind" Collapsed="true">
+    <Position X="26.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAABAAAAAAAAAgAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\PathFinding\PathFinding.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="eTileState" Collapsed="true">
+    <Position X="21.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggAAAgAQAAAAAAIAAAAAAAAAAgAIAAAAAAAAAAEAAAI=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\States\TileState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="eUnitCommand" Collapsed="true">
+    <Position X="23" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAFAAIAAAAAgEEAAAAAAAIAAACAAAAAAAAEAwAA=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\States\UnitState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Direction" Collapsed="true">
+    <Position X="19.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>Assets\ddayin\TurnBasedGameKit\ExampleProject\Scripts\Tilemap\TilemapPathFind.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Malgun Gothic" Size="9" />
+</ClassDiagram>

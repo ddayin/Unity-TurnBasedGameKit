@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 16
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 9636717, guid: ac5f4bfb0f5a3894a80a58e0d2c29aa9, type: 3}
+  m_Name: HierarchySettings
+  m_EditorClassIdentifier: 
+  pluginID: 0
+  last_scenesV2:
+  - guid: 3d6f15c5d861a454290fa25c44bf5069
+    pin: 0
+    path: Assets/TurnBasedGameKit/DemoProjects/CubeTilemap/Scenes/CubeTilemap.unity
+    additional_guid: []
+    additional_path: []
+  - guid: de37ae12e43620745abb840d8a54a49e
+    pin: 0
+    path: Assets/TurnBasedGameKit/DemoProjects/UnityTilemap/Scenes/DemoUnityTilemap.unity
+    additional_guid: []
+    additional_path: []
+  - guid: 3c0943cbf268a5b41a8828db7c25a3ee
+    pin: 0
+    path: Assets/TurnBasedGameKit/DemoProjects/HexTilemap/Scenes/Hex2DTilemap.unity
+    additional_guid: []
+    additional_path: []
+  - guid: 1c31396ac8ff795498dde5f55a9503ea
+    pin: 0
+    path: Assets/Plugins/SimpleSkeletonFree/DemoScene.unity
+    additional_guid: []
+    additional_path: []
+  - guid: 77adb91f1ed40f64ba616bf9b168447a
+    pin: 0
+    path: Assets/TurnBasedGameKit/DemoProjects/HexTilemap/Scenes/Hex3DTilemap.unity
+    additional_guid: []
+    additional_path: []
+  last_scenes: []
+  m_hiddenComponents: []
+  modulesParamsType:
+  - EModules.EModulesInternal.Hierarchy+M_SetActive
+  - EModules.EModulesInternal.Adapter+M_Colors
+  - EModules.EModulesInternal.Hierarchy+M_Warning
+  - EModules.EModulesInternal.Hierarchy+M_Freeze
+  - EModules.EModulesInternal.Hierarchy+M_PrefabApply
+  - EModules.EModulesInternal.Hierarchy+M_Vertices
+  - EModules.EModulesInternal.Hierarchy+M_Audio
+  - EModules.EModulesInternal.Hierarchy+M_Tag
+  - EModules.EModulesInternal.Hierarchy+M_Layers
+  - EModules.EModulesInternal.Hierarchy+M_CustomIcons
+  - EModules.EModulesInternal.Hierarchy+M_Descript
+  - EModules.EModulesInternal.Hierarchy+M_SpritesOrder
+  - EModules.EModulesInternal.Hierarchy+M_PlayModeKeeper
+  - EModules.EModulesInternal.M_UserModulesRoot_Slot1
+  - EModules.EModulesInternal.M_UserModulesRoot_Slot2
+  - EModules.EModulesInternal.M_UserModulesRoot_Slot3
+  - EModules.EModulesInternal.M_UserModulesRoot_Slot4
+  - EModules.EModulesInternal.M_UserModulesRoot_Slot5
+  - EModules.EModulesInternal.M_UserModulesRoot_Slot6
+  - EModules.EModulesInternal.M_UserModulesRoot_Slot7
+  - EModules.EModulesInternal.M_UserModulesRoot_Slot8
+  - EModules.EModulesInternal.M_UserModulesRoot_Slot9
+  modulesParamsClass:
+  - enable: 1
+    sib: -1
+    width: 16
+  - enable: 1
+    sib: -1
+    width: 16
+  - enable: 1
+    sib: -1
+    width: 16
+  - enable: 0
+    sib: 0
+    width: 16
+  - enable: 0
+    sib: 1
+    width: 16
+  - enable: 1
+    sib: 2
+    width: 32
+  - enable: 0
+    sib: 3
+    width: 16
+  - enable: 0
+    sib: 4
+    width: 48
+  - enable: 0
+    sib: 5
+    width: 48
+  - enable: 1
+    sib: 6
+    width: 48
+  - enable: 1
+    sib: 8
+    width: 68
+  - enable: 0
+    sib: 7
+    width: 68
+  - enable: 1
+    sib: -1
+    width: 16
+  - enable: 0
+    sib: 9
+    width: 68
+  - enable: 0
+    sib: 10
+    width: 68
+  - enable: 0
+    sib: 11
+    width: 68
+  - enable: 0
+    sib: 12
+    width: 68
+  - enable: 0
+    sib: 13
+    width: 68
+  - enable: 0
+    sib: 14
+    width: 68
+  - enable: 0
+    sib: 15
+    width: 68
+  - enable: 0
+    sib: 16
+    width: 68
+  - enable: 0
+    sib: 17
+    width: 68
+  lastIconSelect: []
+  lasHiglightColorSelect: []
+  listKey: []
+  listValue: []
+  listValueNew: []
+  WasCustomNewApply: 1
+  _mFavoritWindowParams_keys: 
+  _mFavoritWindowParams_values: []
+  PRESETS_DATA: 
+  PRESETS_SCROLL_CAT: 0
+  PRESETS_SCROLL_PRES: 0
+  PRESETS_SELECT: 0
+  WAS_NEW_INIT: 1
+  USE_REGISTRATOR: 0
+  prop_m_DataKeeper_Values: []

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BackgroundTilemap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1784642621
+    locked: 0
+  - name: Obstacle
+    uniqueID: 577492057
+    locked: 0
+  - name: Grid
+    uniqueID: 2359162619
+    locked: 0
+  - name: Highlight
+    uniqueID: 1892174705
+    locked: 0
+  - name: Unit
+    uniqueID: 3794315725
+    locked: 0
+  - name: GUI
+    uniqueID: 76025487
+    locked: 0
