@@ -26,10 +26,6 @@ namespace TurnBasedGameKit
         public bool m_IsMovable         = false;
         public bool m_IsPath            = false;
         public bool m_IsAttackable      = false;
-<<<<<<< HEAD
-=======
-        public Color m_Color            = TileTypeColor.Normal;
->>>>>>> refactor
         #endregion
 
         /// <summary>
@@ -39,22 +35,12 @@ namespace TurnBasedGameKit
         {
             // coordinate don't need to be reinitialized
             //m_Coordinate  = Vector3Int.zero;
-
-            // type can not be change on run time
-<<<<<<< HEAD
             //m_Type = eTileType.Movable;
             m_Distance = 0;
             m_IsMovable = false;
             m_IsPath = false;
             m_IsAttackable = false;
-=======
-            //m_Type        = eTileType.Movable;
-            m_Distance      = 0;
-            m_IsMovable     = false;
-            m_IsPath        = false;
-            m_IsAttackable  = false;
-            m_Color         = TileTypeColor.Normal;
->>>>>>> refactor
+
         }
     }
 
